@@ -1,0 +1,104 @@
+/* home */
+#home{
+    background-color: #70af85;
+    text-align: center;
+    background-image: url("images/home\ background\ image.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    filter: contrast(65%);
+}
+
+h1{
+   color: white;
+}
+
+h2{
+    font-size: 3rem;
+    font-family: 'Redressed', cursive;
+    font-weight: 400;
+    color: white;
+    line-height: 2.5rem;
+}
+
+.title-booking{
+    padding: 6% 15% 7%;
+}
+.booking{
+    margin-top: 8%;
+    padding-top: 6%;
+}
+
+button{
+    position: relative;
+    top:24px;
+}
+
+a{
+    color: white;
+}
+
+label{
+    color: white;
+}
+.diamond-title{
+    margin-bottom: 10%;
+}
+
+/* About us */
+.about-image{
+    display: inline-block;
+    width: 112%;
+    border-radius:100% ;
+}
+
+#about-us{
+    background-color: #fff;
+    padding: 6% 10% 7%;
+}
+
+/* features */
+
+#features{
+    text-align: center;
+    padding: 10%;
+    background-color:#fbf6f0;
+}
+
+i:hover{
+    color: #ffa45b;
+}
+
+.feature-items{
+    margin: 0 1% 0;
+}
+
+/* comments */
+#comment{
+    text-align: center;
+    background-image: url("images/carousel\ image.jpg");
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.gallery-image{
+    width: 100%;
+}
+
+#room-pricing{
+    padding:100px;
+    text-align: center;
+    background-color:#fbf6f0 ;
+}
+
+.pricing-column{
+    padding: 1% 2%;
+}
+
+.rock{
+    color:black;
+    font-size: 2rem;
+}
+.yoga{
+    padding: 4%;
+}
